@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boimewasula.github.io/sitemap.xml
